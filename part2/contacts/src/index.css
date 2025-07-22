@@ -1,0 +1,9 @@
+.notification{
+  background-color: #e7dfdf;
+  text-align: center;
+  border: solid 1px black;
+
+  h3{
+    color: rgb(156, 40, 40);
+  }
+}
